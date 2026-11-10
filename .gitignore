@@ -1,0 +1,15 @@
+*.PrjPcbStructure
+
+*.LOG
+*.REP
+*.log
+*.rep
+
+*.tmp
+*.bak
+*.old
+*.~*
+
+/History/
+/Project Logs for Gauge/
+__Previews/
